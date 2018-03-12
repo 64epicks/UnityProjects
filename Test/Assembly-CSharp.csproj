@@ -51,8 +51,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\movement.cs" />
-     <Compile Include="Assets\SmoothMouseLook.cs" />
+     <Compile Include="Assets\scripts\FallSpherePropertyScripts.cs" />
+     <Compile Include="Assets\scripts\movement\movement.cs" />
+     <Compile Include="Assets\scripts\movement\SmoothMouseLook.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
