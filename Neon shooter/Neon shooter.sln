@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Neon shooter", "Assembly-CSharp-firstpass.csproj", "{30891E58-F8A3-2EC5-6E59-FB797EE20920}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Neon shooter", "Assembly-CSharp.csproj", "{BE5E1912-05DE-50BA-E974-5D328B6AC8CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Neon shooter", "Assembly-CSharp-Editor-firstpass.csproj", "{840C7663-C70E-AD81-2BEE-DDC695679F90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30891E58-F8A3-2EC5-6E59-FB797EE20920}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30891E58-F8A3-2EC5-6E59-FB797EE20920}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30891E58-F8A3-2EC5-6E59-FB797EE20920}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30891E58-F8A3-2EC5-6E59-FB797EE20920}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE5E1912-05DE-50BA-E974-5D328B6AC8CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE5E1912-05DE-50BA-E974-5D328B6AC8CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE5E1912-05DE-50BA-E974-5D328B6AC8CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE5E1912-05DE-50BA-E974-5D328B6AC8CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{840C7663-C70E-AD81-2BEE-DDC695679F90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{840C7663-C70E-AD81-2BEE-DDC695679F90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{840C7663-C70E-AD81-2BEE-DDC695679F90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{840C7663-C70E-AD81-2BEE-DDC695679F90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
